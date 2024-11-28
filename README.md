@@ -3,8 +3,6 @@
 ### Home Page
 ![Home Page](/frontend/public/home-page.png)
 
-https://bestiapp-react-python.onrender.com
-
 
 ## 🎉 Live Demo
 Check out the live applications:
