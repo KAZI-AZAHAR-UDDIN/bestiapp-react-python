@@ -1,6 +1,5 @@
 <h1 align="center">Friend Store 🚀</h1>
 
-github link-https://github.com/KAZI-AZAHAR-UDDIN/bestiapp-react-python
 ### Home Page
 ![Home Page](/frontend/public/home-page.png)
 
