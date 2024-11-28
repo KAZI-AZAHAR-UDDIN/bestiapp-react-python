@@ -1,113 +1,110 @@
-# Friend Store 🚀
+<h1 align="center">Friend Store 🚀</h1>
 
-Build a Friend Store with Python(Flask) and JavaScript(React)
 
-![Demo App](https://i.ibb.co/S6Xgb6c/Group-98.png)
+### Home Page
+![Home Page](/frontend/public/home-page.png)
 
-[Video Tutorial on Youtube](https://youtu.be/tWHXaSC2T_s)
 
-### Table of Contents
+## About This Course:
+An innovative Friend Store application built with Python (Flask) and JavaScript (React), featuring seamless CRUD functionality, responsive design, and modern UI components.
 
--   ⚙️ Tech Stack: Python, React, SQLite, SQLAlchemy, Flask, Chakra UI
--   ✅ CRUD Functionality: Seamlessly create, read, update, and delete friends from your store.
--   🔒 Best Practices: Utilizes best practices such as creating virtual environments (venv) for a clean and isolated development environment.
--   🌐 Deployment: Deployed on Render for free.
--   🎨 Stylish UI Components: Enhanced user experience with stylish UI components provided by Chakra UI.
--   🌓 Light and Dark Mode: Enjoy a personalized user interface experience with light and dark mode options.
--   📱 Responsive Design: The app is designed to adapt to various screen sizes, ensuring a consistent experience across devices.
 
-### Run the App Locally
+## Table of Contents
+⚙️ Tech Stack
+Python, React, SQLite, SQLAlchemy, Flask, Chakra UI
 
+✅ Core Features
+Seamlessly create, read, update, and delete friends from your store.
+
+🔒 Best Practices
+Virtual environments (venv) for clean, isolated development.
+
+🌐 Deployment
+Hosted for free on Render.
+🎨 Stylish UI Components
+Enhanced user experience using Chakra UI.
+
+🌓 Light and Dark Mode
+Personalized themes with light and dark mode options.
+
+📱 Responsive Design
+Adaptive interface ensuring consistency across devices.
+
+## Project Setup
 1. Clone the repository:
-
-```bash
 git clone https://github.com/burakorkmez/react-python-tutorial
-```
+
 
 2. Navigate to the project directory:
+cd bestiapp-react-python
 
-```bash
-cd react-python-tutorial
-```
 
-3. Navigate to the backend directory:
-
-```bash
+3. Backend Setup
+Navigate to the backend folder:
 cd backend
-```
 
-4. Create a virtual environment:
-
--   On macOS and Linux:
-
-```bash
+Create a virtual environment:
+On macOS and Linux:
 python3 -m venv venv
-```
 
--   On Windows:
 
-```bash
+On Windows:
 python -m venv venv
-```
 
 5. Activate the virtual environment:
-
--   On macOS and Linux:
-
-```bash
+On macOS and Linux:
 source venv/bin/activate
-```
 
--   On Windows:
-
-```bash
+On Windows:
 venv\Scripts\activate
-```
 
-6. Install the dependencies:
-
--   On macOS and Linux:
-
-```bash
+6. Install dependencies:
+On macOS and Linux:
 pip3 install -r requirements.txt
-```
 
--   On Windows:
-
-```bash
+ On Windows:
 pip install -r requirements.txt
-```
 
-7. Navigate to the frontend directory:
-
-```bash
+8. Frontend Setup
+Navigate to the frontend directory:
 cd ../frontend
-```
 
-8. Install the dependencies:
-
-```bash
+Install dependencies:
 npm install
-```
 
-9. Build the frontend:
-
-```bash
+Build the frontend:
 npm run build
-```
 
-10. Navigate to the backend directory:
-
-```bash
+9. Run the Application
+Return to the backend directory:
 cd ../backend
-```
 
-11. Run the Flask app:
-
-```bash
+Run the Flask application:
 flask run
-```
 
-12. Open your browser and go to `http://localhost:5000/` to view the app.
+10.  Access the Application
+Open your browser and navigate to:
+http://localhost:5000/
 
-13. Don't forget to Like && Subscribe 🚀
+
+## Features
+Core Functionality
+🗂️ CRUD Operations: Easily add, edit, view, or delete friends.
+🌟 Light/Dark Mode: Toggle between themes for a personalized user interface.
+Backend Highlights
+🗄️ SQLite Integration: Simple, lightweight database for storing friend details.
+🔑 Flask with SQLAlchemy: Flexible backend with ORM for database management.
+Frontend Highlights
+🎨 Chakra UI: Modern and responsive components for a stylish interface.
+📊 React Framework: Seamless integration and dynamic updates.
+
+
+## Author
+**Kazi Azahar Uddin**  
+
+*Full-Stack Developer | Open to work*  
+
+- **GitHub**: [KAZI-AZAHAR-UDDIN](https://github.com/KAZI-AZAHAR-UDDIN)  
+- **LinkedIn**: [Kazi Azahar Uddin](https://www.linkedin.com/in/kazi-azahar-uddin-8b879b205/)  
+
+
